@@ -1,17 +1,17 @@
  [
   {
-    "id": 1,
-    "word": "alma",
-    "meaning": "agacda biten yasil canli",
+    'id': 1,
+    'word': 'alma',
+    'meaning': 'agacda biten yasil canli',
   },
   {
-    "id": 2,
-    "word": "kitab",
-    "meaning": "sehifeleri olan ve oxunan obyekt",
+    'id': 2,
+    'word': 'kitab',
+    'meaning': 'sehifeleri olan ve oxunan obyekt',
   },
    {
-    "id": 3,
-    "word": "'armud',",
-    "meaning": "ayilarin en sevdiyi meyve",
+    'id': 3,
+    'word': ''armud',',
+    'meaning': 'ayilarin en sevdiyi meyve',
   },
  ]
